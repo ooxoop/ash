@@ -1,3 +1,3 @@
-module github/ooxoop/ash
+module github.com/ooxoop/ash
 
 go 1.16
